@@ -1,6 +1,0 @@
-dev B code line 1st
-dev C code 2nd
-dev B 3rd line of cdev B code line 1st
-dev C code 2nd
-
-dev C taking chance
